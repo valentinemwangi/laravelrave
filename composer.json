@@ -1,12 +1,12 @@
 {
-    "name": "kingflamez/laravelrave",
-    "description": "A Laravel 5 Package for Flutterwave Rave",
+    "name": "valentinemwangi/laravelrave",
+    "description": "A Laravel 5 Package for Flutterwave Rave. This package was forked from Kingflamez.",
     "keywords": ["php","github", "laravel","Open Source","payments", "kingflamez", "Flutterwave Rave", "Flutterwave", "rave", "ravepay.co","laravel 5"],
     "license": "MIT",
     "authors": [
         {
-            "name": "kingflamez",
-            "email": "flamekeed@gmail.com"
+            "name": "Valentine Mwangi",
+            "email": "valentinedeveloper@gmail.com"
         }
     ],
     "minimum-stability": "stable",
