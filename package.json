@@ -1,11 +1,11 @@
 {
-  "name": "laravel-flutterwave-docs",
+  "name": "laravel-flutterwave-rave",
   "version": "0.0.1",
   "description": "A Laravel package that makes it easy to use Flutterwave APIs",
   "main": "index.js",
   "authors": {
-    "name": "Oluwole Adebiyi (Kingflamez)",
-    "email": "flamekeed@gmail.com"
+    "name": "Valentine Mwangi",
+    "email": "valentinedeveloper@gmail.com"
   },
   "repository": "https://github.com/kingflamez/laravelrave/docs",
   "scripts": {
